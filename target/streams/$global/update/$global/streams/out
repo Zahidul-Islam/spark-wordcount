@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies apache-spark-wordcount#apache-spark-wordcount_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cfae0d9[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60d667eb[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
@@ -15326,7 +15326,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] commons-httpclient#commons-httpclient;3.1!commons-httpclient.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3154ms :: artifacts dl 52ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3242ms :: artifacts dl 54ms[0m
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 compile produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 runtime produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 test produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-test.xml[0m
@@ -15340,5 +15340,5 @@
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 docs produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 pom produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for apache-spark-wordcount#apache-spark-wordcount_2.10;1.0 scala-tool produced in /Users/zahidul/Documents/practice/scala/practice_codes/ApacheSparkWordCount/target/resolution-cache/reports/apache-spark-wordcount-apache-spark-wordcount_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (3154ms resolve - 52ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (3242ms resolve - 54ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

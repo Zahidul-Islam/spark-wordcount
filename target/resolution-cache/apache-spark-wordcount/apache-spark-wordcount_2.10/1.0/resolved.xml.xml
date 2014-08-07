@@ -4,7 +4,7 @@
 		module="apache-spark-wordcount_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20140807065907"
+		publication="20140807081339"
 	>
 		<description>
 		Apache Spark WordCount
